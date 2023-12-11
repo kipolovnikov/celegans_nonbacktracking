@@ -1,5 +1,7 @@
 # Code and datasets for C.elegans connectome analysis
 
+![Connectome in the nutshell](https://media.giphy.com/media/rPE4X4EKTtiSUKWwX8/giphy-downsized-large.gif)
+
 This is a connected open-source repository for the publication "Communities in C.elegans connectome through the prism of non-backtracking walks" published in Scientific Reports (2023).
 The reference will be provided soon.
 
@@ -16,8 +18,6 @@ that the optimal number of modules in a recently mapped connectome of C. elegans
 flow matrix. The discovered communities have a clear interpretation in terms of their functional role, which allows one to discern three structural compartments in the worm: the Worm Brain (WB), the
 Worm Movement Controller (WMC), and the Worm Information Flow Connector (WIFC). Broadly, our work provides a robust network-based framework to reveal mesoscopic structures in sparse
 connectomic datasets, paving way to further investigation of connectome mechanisms for different functions.
-
-![Connectome in the nutshell](https://media.giphy.com/media/rPE4X4EKTtiSUKWwX8/giphy-downsized-large.gif)
 
 Contact: 
 Kirill Polovnikov
