@@ -17,7 +17,7 @@ flow matrix. The discovered communities have a clear interpretation in terms of 
 Worm Movement Controller (WMC), and the Worm Information Flow Connector (WIFC). Broadly, our work provides a robust network-based framework to reveal mesoscopic structures in sparse
 connectomic datasets, paving way to further investigation of connectome mechanisms for different functions.
 
-![Connectome in the nutshell](https://media.giphy.com/media/rPE4X4EKTtiSUKWwX8/giphy-downsized-large.gif)
+![Connectome in the nutshell]([https://media.giphy.com/media/rPE4X4EKTtiSUKWwX8/giphy-downsized-large.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo0NGptazNrZzU2bWppOWF0bjEzamdwNDdld2tsYjlpdTllb29scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLi9sfhKeZ3LCZygti/giphy.mp4)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo0NGptazNrZzU2bWppOWF0bjEzamdwNDdld2tsYjlpdTllb29scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLi9sfhKeZ3LCZygti/giphy.mp4)
 
 Contact: 
 Kirill Polovnikov
