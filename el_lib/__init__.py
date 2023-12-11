@@ -57,7 +57,7 @@ class Alpha():
     #edges extracting on purpose of backprop matrix construction
     def edges_extracting(self, adj_sym):
         # find all edges 
-        graph_sym = nx.from_numpy_matrix(adj_sym)
+        graph_sym = nx.from_numpy_array(adj_sym)
         edges_gr_sym = np.array(graph_sym.edges)
         edges_gr_sym_i = edges_gr_sym[::,::-1]
         all_edg_sym = np.concatenate((edges_gr_sym, edges_gr_sym_i))
