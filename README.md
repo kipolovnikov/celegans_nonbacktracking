@@ -1,4 +1,6 @@
-Code and datasets for C.elegans connectome analysis.
+# Code and datasets for C.elegans connectome analysis
+
+![Connectome in the nutshell](https://media.giphy.com/media/rPE4X4EKTtiSUKWwX8/giphy-downsized-large.gif)
 
 This is a connected open-source repository for the publication "Communities in C.elegans connectome through the prism of non-backtracking walks" published in Scientific Reports (2023).
 The reference will be provided soon.
