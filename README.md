@@ -22,3 +22,14 @@ connectomic datasets, paving way to further investigation of connectome mechanis
 Contact: 
 Kirill Polovnikov
 kipolovnikov@gmail.com
+
+
+data folder desciption:
+1. 3D_coordinates_celegans.csv is a 3D coordinates reconstruction from the article "Toward a more accurate 3D atlas of C. elegans neurons" (2022)
+2. C.elegans_connectome_updated.graphml is an old connectivity data from the "Wiring optimization can relate neuronal structure and function" (2006) 
+3. NeuronType.xls is a list of neuron types from www.wormwiring.org
+4. SI 5 Connectome adjacency matrices.xlsx is a connectome data from the "Whole-animal connectomes of both Caenorhabditis elegans sexes" (2019)
+5. Virtual_Worm_February_2012_with_cluster_colors.blend is a blender 3D model of the C.elegans connectome from the http://canopus.caltech.edu/virtualworm/
+6. clusters_and_stratas.xlsx is a resulting Flow Matrix clusters and contactome strata tables from "A multi-scale brain map derived from whole-brain volumetric
+reconstructions" (2021) and "Structural and developmental principles of neuropil assembly in C. elegans" (2021) 
+
