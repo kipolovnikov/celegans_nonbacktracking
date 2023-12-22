@@ -2,7 +2,7 @@
 
 ![Connectome in the nutshell](https://media.giphy.com/media/rPE4X4EKTtiSUKWwX8/giphy-downsized-large.gif)
 
-This is a connected open-source repository for the publication "Communities in C.elegans connectome through the prism of non-backtracking walks" published in Scientific Reports (2023).
+This is a connected open-source repository for the publication "Communities in C.elegans connectome through the prism of non-backtracking walks" published in Scientific Reports (2023)
 [DOI](https://doi.org/10.1038/s41598-023-49503-5)
 
 Authors: Arsenii Onuchin, Alina Chernizova, Mikhail Lebedev, Kirill Polovnikov
